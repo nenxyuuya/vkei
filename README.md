@@ -74,4 +74,4 @@ hanya sebuah style yang ada di anak band (<b><i>bandoman</i></b>) yang  kebanyak
 | Alice Nine                      | 29 Juni 2014          | Malaysia             |
 | UNiTE                           | 13 Juli 2015          | Jepang               |
 | Blitz                           | 17 Juli 2015          | Jepang               |
-| Event Taiban Liraizo x Belle    | 13 Juli 2015          | Jepang               |
+| Event Taiban Liraizo x Belle    | 18 Juli 2015          | Jepang               |
