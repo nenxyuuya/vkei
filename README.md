@@ -60,3 +60,8 @@ hanya sebuah style yang ada di anak band (<b><i>bandoman</i></b>) yang  kebanyak
    <li>KAMIJO</li>
    <li>GACKT</li>
 </ul>
+
+<p>ERD TOKYO</p>
+
+<pre><code>lagunya DIV
+</code></pre>
