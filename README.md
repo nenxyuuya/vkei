@@ -20,7 +20,7 @@ Sejarah yang “melahirkan” adanya Visual Kei sebenarnya bermula saat Jepang m
 Kredit : [Sumber](https://id.wikipedia.org/wiki/Visual_Kei"Sumber")
 
 <h1>Visual Kei Menurut Aku</h1>
-hanya sebuah style yang ada di anak band yang  kebanyakan <b><i>bishounen</i></b> (laki-laki cantik) yang keren dan mempunyai berbagai macam lagu. 
+hanya sebuah style yang ada di anak band (<b><i>bandoman</i><b>) yang  kebanyakan <b><i>bishounen</i></b> (laki-laki cantik) yang keren dan mempunyai berbagai macam lagu. 
 
 <p><strong> sekarang sedang mendengar lagu dari gosen 21.g</p></strong>
 
@@ -44,3 +44,19 @@ hanya sebuah style yang ada di anak band yang  kebanyakan <b><i>bishounen</i></b
 </ol>
 
 <u><i><b>Catatan :</b> bisa berubah-ubah , karena aku bosan atau band tersebut sudah bubar</i><u>
+
+<h3>Bandoman Favorit</h3>
+
+<ul>
+   <li>Yuutoman</li>
+   <li>Yui</li>
+   <li>Motoki</li>
+   <li>Tsubasa</li>
+   <li>Masato</li>
+   <li>Haku</li>
+   <li>Chizuru</li>
+   <li>You</li>
+   <li>Reno</li>
+   <li>KAMIJO</li>
+   <li>GACKT</li>
+</ul>
