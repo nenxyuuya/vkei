@@ -65,3 +65,13 @@ hanya sebuah style yang ada di anak band (<b><i>bandoman</i></b>) yang  kebanyak
 
 <pre><code>lagunya DIV
 </code></pre>
+
+<h4>Band yang aku pernah nonton konsernya</h4>
+| Nama Band                       | Tanggal               | Negara               |
+|---------------------------------|-----------------------|----------------------|
+| Versailles                      | 30 Juni 2010          | Inggris              |
+| Royz                            | 12 Januari 2014       | Taiwan               |
+| Alice Nine                      | 29 Juni 2014          | Malaysia             |
+| UNiTE                           | 13 Juli 2015          | Jepang               |
+| Blitz                           | 17 Juli 2015          | Jepang               |
+| Event Taiban Liraizo x Belle    | 13 Juli 2015          | Jepang               |
