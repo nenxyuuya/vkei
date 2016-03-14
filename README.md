@@ -76,5 +76,4 @@ hanya sebuah style yang ada di anak band (<b><i>bandoman</i></b>) yang  kebanyak
 | Blitz                           | 17 Juli 2015          | Jepang               |
 | Event Taiban Liraizo x Belle    | 18 Juli 2015          | Jepang               |
 
-Si Motoki 
-![Motoki](images/motokismileberry.jpg)
+
